@@ -1,0 +1,6 @@
+[submodule "visual_qa_analysis"]
+	path = visual_qa_analysis
+	url = https://github.com/pramodkaushik/visual_qa_analysis.git
+[submodule "np_analysis"]
+	path = np_analysis
+	url = https://github.com/pramodkaushik/np_analysis.git
