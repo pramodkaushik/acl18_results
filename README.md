@@ -21,6 +21,10 @@ Clone the repository using
 git clone https://github.com/pramodkaushik/acl18_results.git --recursive
 ```
 
+# Code for experiments
+
+Attacks on Neural Programmer are present in the folder `np_analysis`, and those on visual question answering in `visual_qa_analysis`. Code for computing attributions via Integrated Gradients and to reproduce experiments are in Jupyter notebooks in both these directories. 
+
 # Contact
 
 Pramod Kaushik Mudrakarta
